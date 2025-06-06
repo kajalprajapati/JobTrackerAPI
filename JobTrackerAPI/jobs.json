@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "97018937-c3f3-40db-869a-0c1b8afdb62d",
+    "CompanyName": "Microsoft",
+    "Position": "",
+    "Role": "Software Engineer",
+    "Status": "Applied",
+    "AppliedDate": "2025-06-01T00:00:00Z",
+    "Notes": "Via LinkedIn"
+  },
+  {
+    "Id": "cf6e98b0-5de3-4f38-82ad-41d7a96769e3",
+    "CompanyName": "Google",
+    "Position": "",
+    "Role": "Backend Developer",
+    "Status": "Interview Scheduled",
+    "AppliedDate": "2025-06-02T00:00:00Z",
+    "Notes": "Careers Page"
+  },
+  {
+    "Id": "a824c211-bc1b-413a-85ed-3d1317db1e82",
+    "CompanyName": "TCS",
+    "Position": "",
+    "Role": "Dotnet Developer",
+    "Status": "Rejected",
+    "AppliedDate": "2025-05-15T00:00:00Z",
+    "Notes": "Through Referral"
+  }
+]
