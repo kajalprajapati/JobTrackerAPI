@@ -12,6 +12,8 @@ A clean, professional-grade .NET Core Web API to help track job applications —
 - 📦 EF Core integration with SQL Server
 - 🧼 Clean MVC structure (Controller + Service + Model)
 - ⚙️ Swagger UI for testing and documentation
+-  Extensible design for WhatsApp or SMS integration
+- Secure secret handling using User Secrets
 
 ---
 
